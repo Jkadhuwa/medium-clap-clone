@@ -1,6 +1,7 @@
 <center> <h2> Medim clap clone </h2> </center>
 
 <center>
+
 ## Description
 This is a mimic of medium clap feature.
 
